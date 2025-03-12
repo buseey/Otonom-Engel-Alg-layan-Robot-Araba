@@ -21,16 +21,17 @@ Projenin temel hedefleri şunlardır:
 
 ## 3. Tahmini Zaman Çizelgesi
 
-| Görev                           | Tahmini Süre |
-|--------------------------------|-------------|
-| Malzeme temini ve hazırlık    | 10 gün       |
-| Devre bağlantılarının yapılması | 1 gün       |
-| Arduino kodlarının yazılması   | 2 gün       |
-| Sensör testleri ve hata ayıklama | 2 gün       |
-| Robotun gövde montajı         | 1 gün       |
-| Yazılım optimizasyonu         | 2 gün       |
-| Nihai testler ve raporlama    | 2 gün       |
-| ** Toplam Süre**             | **20 Gün**  |
+| *Görev*                                        | *Tahmini Süre*  |
+|--------------------------------------------------|-------------------|
+| *Proje Planlaması ve Araştırma*                | 1 hafta           |
+| *Arduino ve Sensörlerin Kurulumu*              | 1 hafta           |
+| *Yazılım Geliştirme ve Engel Algılama Algoritması* | 2 hafta           |
+| *Donanım Montajı ve Testler*                   | 2 hafta           |
+| *Yazılım ve Donanım Entegrasyonu*              | 2 hafta           |
+| *Test ve Hata Ayıklama*                        | 1 hafta           |
+| *Son Testler ve Optimizasyon*                  | 1 hafta           |
+| *Proje Sonuçları ve Rapor Hazırlama*           | 1 hafta           |
+| *Toplam Süre*                                  | 9 hafta           |
 
 ## 4. Kaynak Planlaması
 ## Gerekli Malzemeler ve Maliyetler
@@ -71,25 +72,25 @@ Otonom engelden kaçan robotlar, ticari olarak birçok alanda kullanılabilir:
 - 📌 **Ev Otomasyonu** → Akıllı süpürgeler ve otonom temizlik robotları gibi ürünlerde temel teknoloji olarak uygulanabilir.  
 - 📌 **Askeri ve Araştırma Alanları** → Keşif ve gözlem robotlarında engellerden kaçınma algoritması kullanılabilir.
 
- ## 7. Proje Ekibi ve Görev Dağılımı  
+ ## 7. Proje Ekibi ve Görev Dağılımı   
 
-### Aybüke Eraydın – Kodlama  
-- Arduino kodlarını yazma  
-- Motor sürücü ve kontrol mekanizmalarını kodlama  
-
-### Busenur Yıldız – Kodlama & Donanım Montajı & Devre Tasarımı  
+### Busenur Yıldız 
 - Sensör ve motorların Arduino'ya bağlantısını yapma
-- Motor sürücü ve kontrol mekanizmalarını kodlama 
+- Arduino kodlarını yazma 
 - Devre şemasını oluşturma ve test etme  
-- Enerji yönetimi ve pil bağlantılarını sağlama  
+- Enerji yönetimi ve pil bağlantılarını sağlama
 
-### Sevgi Nur Öksüz – Kodlama & Sensör Entegrasyonu  
-- Sensörlerden gelen verileri işleme
+### Aybüke Eraydın  
+- Arduino kodlarını yazma  
 - Motor sürücü ve kontrol mekanizmalarını kodlama 
+
+### Sevgi Nur Öksüz 
+- Sensörlerden gelen verileri işleme
+- Arduino kodlarını yazma 
 - Kabloların düzenli yerleştirilmesini sağlama  
 
-### Onur Kerem – Kodlama & Test & Optimizasyon  
+### Onur Kerem 
 - Robotun hareketlerini test etme
-- Motor sürücü ve kontrol mekanizmalarını kodlama 
+- Arduino kodlarını yazma 
 - Engelleri algılama hassasiyetini ayarlama  
 - Hata tespiti ve optimizasyon önerileri geliştirme
