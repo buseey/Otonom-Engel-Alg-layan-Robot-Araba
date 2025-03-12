@@ -77,18 +77,18 @@ Otonom engelden kaçan robotlar, ticari olarak birçok alanda kullanılabilir:
 - Arduino kodlarını yazma  
 - Motor sürücü ve kontrol mekanizmalarını kodlama  
 
-### Busenur Yıldız – Donanım Montajı & Devre Tasarımı  
+### Busenur Yıldız – Kodlama & Donanım Montajı & Devre Tasarımı  
 - Sensör ve motorların Arduino'ya bağlantısını yapma
 - Motor sürücü ve kontrol mekanizmalarını kodlama 
 - Devre şemasını oluşturma ve test etme  
 - Enerji yönetimi ve pil bağlantılarını sağlama  
 
-### Sevgi Nur Öksüz – Sensör Entegrasyonu  
+### Sevgi Nur Öksüz – Kodlama & Sensör Entegrasyonu  
 - Sensörlerden gelen verileri işleme
 - Motor sürücü ve kontrol mekanizmalarını kodlama 
 - Kabloların düzenli yerleştirilmesini sağlama  
 
-### Onur Kerem – Test & Optimizasyon  
+### Onur Kerem – Kodlama & Test & Optimizasyon  
 - Robotun hareketlerini test etme
 - Motor sürücü ve kontrol mekanizmalarını kodlama 
 - Engelleri algılama hassasiyetini ayarlama  
