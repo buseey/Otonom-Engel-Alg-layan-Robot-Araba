@@ -35,16 +35,16 @@ Projenin temel hedefleri şunlardır:
 ## 4. Kaynak Planlaması
 ## Gerekli Malzemeler ve Maliyetler
 
-| Malzeme                        | Birim Fiyat (₺) | Adet  | Toplam (₺) |
-|--------------------------------|---------------|------|------------|
-| Arduino Uno                    | 500           | 1    | 500        |
-| HC-SR04 Ultrasonik Sensör      | 100           | 1    | 100        |
-| L298N Motor Sürücü             | 150           | 1    | 150        |
-| DC Motorlar ve Tekerlek Seti   | 400           | 2    | 650        |
-| 6'lı AA Pil Yuvası ve Piller   | 200           | 1    | 200        |
-| Şasi (Robot Gövdesi)           | 350           | 1    | 350        |
-| Jumper Kabloları               | 50            | 1 Set | 50         |
-| **Toplam Tahmini Maliyet:**    | **2.150₺**   |      | **2.000₺** |
+| Malzeme                        | Birim Fiyat (₺) | Adet  | 
+|--------------------------------|---------------|------|
+| Arduino Uno                    | 500           | 1    | 
+| HC-SR04 Ultrasonik Sensör      | 100           | 1    | 
+| L298N Motor Sürücü             | 150           | 1    | 
+| DC Motorlar ve Tekerlek Seti   | 400           | 2    | 
+| 6'lı AA Pil Yuvası ve Piller   | 200           | 1    |
+| Şasi (Robot Gövdesi)           | 350           | 1    | 
+| Jumper Kabloları               | 50            | 1 Set |
+| **Toplam Tahmini Maliyet:**    | **1.750₺**   |      | 
 
 ## Kullanılacak Yazılımlar:
 
@@ -78,15 +78,18 @@ Otonom engelden kaçan robotlar, ticari olarak birçok alanda kullanılabilir:
 - Motor sürücü ve kontrol mekanizmalarını kodlama  
 
 ### Busenur Yıldız – Donanım Montajı & Devre Tasarımı  
-- Sensör ve motorların Arduino'ya bağlantısını yapma  
+- Sensör ve motorların Arduino'ya bağlantısını yapma
+- Motor sürücü ve kontrol mekanizmalarını kodlama 
 - Devre şemasını oluşturma ve test etme  
 - Enerji yönetimi ve pil bağlantılarını sağlama  
 
 ### Sevgi Nur Öksüz – Sensör Entegrasyonu  
-- Sensörlerden gelen verileri işleme  
+- Sensörlerden gelen verileri işleme
+- Motor sürücü ve kontrol mekanizmalarını kodlama 
 - Kabloların düzenli yerleştirilmesini sağlama  
 
 ### Onur Kerem – Test & Optimizasyon  
-- Robotun hareketlerini test etme  
+- Robotun hareketlerini test etme
+- Motor sürücü ve kontrol mekanizmalarını kodlama 
 - Engelleri algılama hassasiyetini ayarlama  
 - Hata tespiti ve optimizasyon önerileri geliştirme
