@@ -230,6 +230,5 @@ void geri() {
 ## 13. Kaynaklar 📚
 
 1. Maker Robotistan, Arduino ile Engelden Kaçan Robot Araba Yapımı : https://maker.robotistan.com/engelden-kacan-robot-yapimi/  
-2. GitHub – Arduino Smart Car Projesi: https://github.com/sevginuroksuz/aurdunio-smart-car
-3. Ultrasonik Sensörün Çalışma Prensibi: https://www.bjultrasonic.com/tr/how-do-ultrasonic-sensors-work/
-4. Yazılım Algoritması Çiziminde: drawio'dan yararlanıldı.
+2. Ultrasonik Sensörün Çalışma Prensibi: https://www.bjultrasonic.com/tr/how-do-ultrasonic-sensors-work/
+3. Yazılım Algoritması Çiziminde: drawio'dan yararlanıldı.
