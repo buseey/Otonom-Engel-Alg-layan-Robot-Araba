@@ -57,7 +57,7 @@ Bu rapor, Arduino Uno kontrolünde HC-SR04 ultrasonik sensör ile mesafe ölçü
 ---
 
 ## 5. Ultrasonik Sensörün Çalışma Prensibi
-![Zaman Diyagramı](Figure/ultrasonic_timing.jpg)
+![Zaman Diyagramı](figures/ultrasonic_timing.jpg)
 - `Trig` pini 10 µs süreyle HIGH yapılarak ultrasonik dalga gönderilir.  
 - `Echo` pini `pulseIn()` ile yüksek kalma süresi ölçülür.  
 - Mesafe (cm) = (süre / 2) / 29.1 formülüyle hesaplanır.
@@ -68,7 +68,7 @@ Bu rapor, Arduino Uno kontrolünde HC-SR04 ultrasonik sensör ile mesafe ölçü
 ---
 ## 6. 📷 Yapılan Çalışmalar ve Görselleri
 **Devre Tasarımı ve Montajı**
-![Devre Çizimi](Figure/circuit_diagram.png)
+![Devre Çizimi](figures/circuit_diagram.png)
 > **Not:** Switch ve klemensi, kırmızı ile gösterilen güç hattına ekleyin.
 
 1. **HC-SR04 Sensör**  
@@ -92,13 +92,13 @@ Bu rapor, Arduino Uno kontrolünde HC-SR04 ultrasonik sensör ile mesafe ölçü
 **Prototip Fotoğrafları**  
 | Ön Görünüm                                     | Yan Görünüm                                  |
 |:----------------------------------------------:|:--------------------------------------------:|
-| ![](figure/body_front.jpeg)                       | ![](figure/body_side.jpeg)   
+| ![](figures/body_front.jpeg)                       | ![](figures/body_side.jpeg)   
 | Arka Görünüm                                     | Üst Görünüm                                  |
-| ![](figure/body_back.jpeg)                      | ![](figure/body_top.jpeg)                      |
+| ![](figures/body_back.jpeg)                      | ![](figures/body_top.jpeg)                      |
 
 ---
 ## 7. Yazılım Algoritması
-![Zaman Diyagramı](figure/algorithm.png)
+![Zaman Diyagramı](figures/algorithm.png)
 1. Trig pini LOW → kısa bekleme  
 2. Trig pini HIGH (10 µs) → LOW  
 3. `pulseIn(echoPin, HIGH)` ile süre ölçümü  
