@@ -92,9 +92,9 @@ Bu rapor, Arduino Uno kontrolünde HC-SR04 ultrasonik sensör ile mesafe ölçü
 **Prototip Fotoğrafları**  
 | Ön Görünüm                                     | Yan Görünüm                                  |
 |:----------------------------------------------:|:--------------------------------------------:|
-| ![](figure/body_front.JPEG)                       | ![](figure/body_side.JPEG)   
+| ![](figure/body_front.jpeg)                       | ![](figure/body_side.jpeg)   
 | Arka Görünüm                                     | Üst Görünüm                                  |
-| ![](figure/body_back.JPEG)                      | ![](figure/body_top.JPEG)                      |
+| ![](figure/body_back.jpeg)                      | ![](figure/body_top.jpeg)                      |
 
 ---
 ## 7. Yazılım Algoritması
