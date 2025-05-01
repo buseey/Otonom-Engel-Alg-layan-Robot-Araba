@@ -92,13 +92,13 @@ Bu rapor, Arduino Uno kontrolünde HC-SR04 ultrasonik sensör ile mesafe ölçü
 **Prototip Fotoğrafları**  
 | Ön Görünüm                                     | Yan Görünüm                                  |
 |:----------------------------------------------:|:--------------------------------------------:|
-| ![](Figure/body_front.JPEG)                       | ![](Figure/body_side.JPEG)   
+| ![](figure/body_front.JPEG)                       | ![](figure/body_side.JPEG)   
 | Arka Görünüm                                     | Üst Görünüm                                  |
-| ![](Figure/body_back.JPEG)                      | ![](Figure/body_top.JPEG)                      |
+| ![](figure/body_back.JPEG)                      | ![](figure/body_top.JPEG)                      |
 
 ---
 ## 7. Yazılım Algoritması
-![Zaman Diyagramı](Figure/algorithm.png)
+![Zaman Diyagramı](figure/algorithm.png)
 1. Trig pini LOW → kısa bekleme  
 2. Trig pini HIGH (10 µs) → LOW  
 3. `pulseIn(echoPin, HIGH)` ile süre ölçümü  
